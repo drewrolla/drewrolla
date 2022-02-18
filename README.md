@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @drewrolla
-- 👀 I’m interested in cars, music, cooking, and computers.
+- 👀 I’m interested in music, motorcycles, movies, and cooking. I think tattoo art is neat.
 - 🌱 I’m currently learning how to program and learning more about purple teaming.
 - 💞️ Interesting icon this is
 - 📫 How to reach me - LinkedIn
