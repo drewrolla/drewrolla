@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @drewrolla
+- 👋 Hi, I’m Andrew
 - 👀 I like motorcycles, movies, and music
 - 🌱 I’m currently learning how to program/code!
 - 📫 How to reach me - linkedin.com/in/drewrolla/
