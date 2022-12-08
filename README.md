@@ -1,4 +1,3 @@
-- 👋 Hi, I’m Andrew
-- 👀 I like motorcycles, movies, and music
-- 🌱 I’m currently learning how to program/code!
+- 👋 Hello, I am Andrew
+- 👀 I am an avid learner and jack-of-all-trades
 - 📫 How to reach me - linkedin.com/in/drewrolla/
