@@ -1,3 +1,1 @@
-- 👋 Hello, I am Andrew
-- 👀 I am an avid learner and jack-of-all-trades
-- 📫 Find me on LinkedIn - linkedin.com/in/drewrolla/
+- Hi, I'm Andrew
