@@ -1,1 +1,1 @@
-- Hi, I'm Andrew
+Hey, nice to meet you! I'm Andrew, and I am currently a novice at programming. This whole shebang is going to be a collection of projects as well as a showcase of my journey as I learn to code. Thanks for stopping by!
